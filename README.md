@@ -57,7 +57,7 @@ Working on projects with each language and technology to improve my skills is an
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=yldrykuru&show_icons=true&theme=radical)
 
 ## Popular Projects
-![Project Statistics](https://github-readme-stats.vercel.app/api/pin/?username=yldrykuru&repo=expressjs-typescript-mvc&show_owner=true)
+![Project Statistics](https://github-readme-stats.vercel.app/api/pin/?username=yldrykuru&repo=expressjs-typescript-restapi&show_owner=true)
 ![Project Statistics](https://github-readme-stats.vercel.app/api/pin/?username=yldrykuru&repo=simple-socket-chat&show_owner=true)
 ![Project Statistics](https://github-readme-stats.vercel.app/api/pin/?username=yldrykuru&repo=realtime-drawing&show_owner=true)
 ![Project Statistics](https://github-readme-stats.vercel.app/api/pin/?username=yldrykuru&repo=ubl-invoice&show_owner=true)
